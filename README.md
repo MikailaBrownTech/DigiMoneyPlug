@@ -2,6 +2,8 @@
 
 A single sign-up landing page for **Digi Money Plug**, an app that consolidates verified ways for everyday people to earn and save money online.
 
+**Live site (local dev server):** [http://127.0.0.1:5500/day_3_landing_page_project/](http://127.0.0.1:5500/day_3_landing_page_project/)
+
 ## Structure
 
 ```
