@@ -20,7 +20,7 @@ No build step or dependencies — just static HTML/CSS/JS. Open `index.html` dir
 1. **Hero** — one-line title, one-sentence subheading, and a phone mockup preview.
 2. **How It Works** — 3-step process.
 3. **Why Digi Money Plug** — 6-item feature grid.
-4. **Real Results** — stats + testimonials on a dark contrast panel.
+4. **Top Features** — the 3 opportunity types on a dark contrast panel: earn money online, get verified discounts, and find passive income.
 5. **Call to Action** — email sign-up form.
 
 ## Design
